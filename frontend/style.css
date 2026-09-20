@@ -1,0 +1,10 @@
+.post {
+    font-size: 16px;
+    color: black;
+    font-family: -apple-system;
+    text-align: center;
+}
+
+* {
+    box-sizing: border-box;
+}
