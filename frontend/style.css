@@ -8,3 +8,11 @@
 * {
     box-sizing: border-box;
 }
+
+header {
+    height: auto;
+}
+
+.postCreate {
+    display: flex;
+}
